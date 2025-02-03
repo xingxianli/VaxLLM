@@ -8,5 +8,4 @@ Sample data provided: [brucella_articles.txt](https://github.com/xingxianli/VaxL
 
 Sample code to clean VaxLLM results: [clean_result.ipynb](https://github.com/xingxianli/VaxLLM/blob/main/clean_result.ipynb)
 
-Sample output: [VaxLLM_results.xlsx]((https://github.com/xingxianli/VaxLLM/blob/main/VaxLLM_results.xlsx))
-
+Sample output: [VaxLLM_results.xlsx](https://github.com/xingxianli/VaxLLM/blob/main/VaxLLM_results.xlsx)
